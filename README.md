@@ -7,7 +7,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ridho+Rabbani+%F0%9F%91%8B;IT+Student+%7C+Student+Developer;Learning+and+Building+Web+Projects" alt="Typing SVG" />
 
-  <h3>🎓 IT Student | Aspiring Web Developer</h3>
+  <h3> IT Student | Aspiring Web Developer</h3>
 
   <p>
     Learning, exploring, and building my skills<br>
@@ -24,7 +24,7 @@
 
 <!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
   🎓 Student at <b>SMK Media Informatika</b><br>
@@ -52,7 +52,7 @@
 
 <!-- ================= CURRENTLY LEARNING ================= -->
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h2 align="center"> Currently Learning</h2>
 
 <div align="center">
 
@@ -79,34 +79,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhooo08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhooo08&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
-
-</div>
-
-<br>
-
----
-
-<!-- ================= GITHUB TROPHIES ================= -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=dhooo08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-<br>
-
----
-
-<!-- ================= CONTRIBUTION STREAK ================= -->
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=dhooo08&theme=tokyonight&hide_border=true&border_radius=10" width="70%" alt="Contribution Streak"/>
 
 </div>
 
