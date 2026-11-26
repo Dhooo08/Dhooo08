@@ -50,21 +50,18 @@
 
 ---
 
+
 <!-- ================= CURRENTLY LEARNING ================= -->
 
-<h2 align="center"> Currently Learning</h2>
+<h2 align="center">Currently Learning</h2>
 
-<div align="center">
-
-| **Learning Focus** |
-|:---:|:---|
-|Laravel & PHP Development |
-|Database Management with MySQL |
-|Responsive Web Design |
-|Backend Development |
-|Clean Code & Project Structure |
-
-</div>
+<p align="center">
+  Laravel & PHP Development<br>
+  Database Management with MySQL<br>
+  Responsive Web Design<br>
+  Backend Development<br>
+  Clean Code & Project Structure
+</p>
 
 <br>
 
