@@ -56,7 +56,7 @@
 
 <div align="center">
 
-| Area | Learning Focus |
+| **Learning Focus** |
 |:---:|:---|
 |Laravel & PHP Development |
 |Database Management with MySQL |
