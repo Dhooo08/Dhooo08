@@ -46,52 +46,6 @@
 ---
 
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Alisa Stationery</h3>
-<p align="center">
-Website katalog digital dan media promosi
-untuk UMKM Alisa Stationery.
-<br><br>
-<b>Laravel · PHP · MySQL · Tailwind CSS</b>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">Manosa Cafe & Resto</h3>
-<p align="center">
-Website informasi dan pemesanan
-untuk usaha cafe.
-<br><br>
-<b>Laravel · PHP · MySQL · Tailwind CSS</b>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Perpustakaan Digital</h3>
-<p align="center">
-Proyek website perpustakaan
-berbasis web.
-<br><br>
-<b>HTML · Tailwind CSS · JavaScript</b>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">Personal Portfolio</h3>
-<p align="center">
-Website portfolio untuk menampilkan
-profil dan perjalanan belajar.
-<br><br>
-<b>HTML · CSS · JavaScript</b>
-</p>
-</td>
-</tr>
-</table>
-
-
 <!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Statistics
@@ -123,6 +77,18 @@ profil dan perjalanan belajar.
 </div>
 
 ---
+
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dhooo08&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
 
 <div align="center">
 
