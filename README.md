@@ -72,11 +72,11 @@
 
 <div align="center">
 
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <a href="[https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/](https://www.instagram.com/rdhoo.b?knvt=d3IwbXJzMDI0ajl4)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/dhooo08">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
