@@ -3,7 +3,9 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ridho+Rabbani+%F0%9F%91%8B;IT+Student+%7C+Student+Developer;Learning+and+Building+Web+Projects" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Ridho%20Rabbani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Learning%20Every%20Day&descAlignY=58&animation=fadeIn" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ridho+Rabbani+%F0%9F%91%8B;IT+Student+%7C+Student+Developer;Learning+and+Building+Web+Projects" alt="Typing SVG" />
 
   <h3>🎓 IT Student | Aspiring Web Developer</h3>
 
@@ -16,65 +18,61 @@
 
 </div>
 
+<br>
+
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Ridho%20Rabbani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Learning%20Every%20Day&descAlignY=58&animation=fadeIn" width="100%" />
-</p>
-
 
 <!-- ================= ABOUT ME ================= -->
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 Student at **SMK Media Informatika**
-- 💻 Interested in **Web Development**
-- 🔍 Exploring frontend and backend development
-- 🚀 Building projects to improve my programming skills
-- 📚 Always learning something new
+<p align="center">
+  🎓 Student at <b>SMK Media Informatika</b><br>
+  💻 Interested in <b>Web Development</b><br>
+  🔍 Exploring frontend and backend development<br>
+  🚀 Building projects to improve my programming skills<br>
+  📚 Always learning something new
+</p>
+
+<br>
 
 ---
 
 <!-- ================= TECH STACK ================= -->
 
-## 🛠️ Tech Stack & Tools
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,tailwind,git,github,vscode" alt="Tech Stack"/>
 </p>
 
+<br>
+
 ---
 
+<!-- ================= CURRENTLY LEARNING ================= -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🌱 Currently Learning</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhooo08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-</p>
+<div align="center">
 
------
+| Area | Learning Focus |
+|:---:|:---|
+| 💻 | Laravel & PHP Development |
+| 🗄️ | Database Management with MySQL |
+| 🎨 | Responsive Web Design |
+| ⚙️ | Backend Development |
+| 🧹 | Clean Code & Project Structure |
 
+</div>
 
-<h2 align="center">🔥 Contribution Streak</h2>
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhooo08&theme=tokyonight&hide_border=true&border_radius=10" width="70%" />
-</p>
+---
 
-----
+<!-- ================= GITHUB STATISTICS ================= -->
 
-
-<h2>🌱 Currently Learning</h2>
-
-- Laravel & PHP Development
-- Database Management with MySQL
-- Responsive Web Design
-- Backend Development
-- Clean Code & Project Structure
-
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
@@ -84,11 +82,41 @@
 
 </div>
 
+<br>
+
+---
+
+<!-- ================= GITHUB TROPHIES ================= -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=dhooo08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<br>
+
+---
+
+<!-- ================= CONTRIBUTION STREAK ================= -->
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=dhooo08&theme=tokyonight&hide_border=true&border_radius=10" width="70%" alt="Contribution Streak"/>
+
+</div>
+
+<br>
+
 ---
 
 <!-- ================= SOCIAL MEDIA ================= -->
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
@@ -102,12 +130,15 @@
 
 </div>
 
+<br>
+
 ---
 
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 
-  ### 💡 Learning Today, Building Tomorrow.
+  <h3>💡 Learning Today, Building Tomorrow.</h3>
 
   <i>Thanks for visiting my GitHub profile!</i>
 
