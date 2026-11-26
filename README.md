@@ -58,11 +58,11 @@
 
 | Area | Learning Focus |
 |:---:|:---|
-| 💻 | Laravel & PHP Development |
-| 🗄️ | Database Management with MySQL |
-| 🎨 | Responsive Web Design |
-| ⚙️ | Backend Development |
-| 🧹 | Clean Code & Project Structure |
+|Laravel & PHP Development |
+|Database Management with MySQL |
+|Responsive Web Design |
+|Backend Development |
+|Clean Code & Project Structure |
 
 </div>
 
