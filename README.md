@@ -18,6 +18,12 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Ridho%20Rabbani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Learning%20Every%20Day&descAlignY=58&animation=fadeIn" width="100%" />
+</p>
+
+
 <!-- ================= ABOUT ME ================= -->
 
 ## 👨‍💻 About Me
