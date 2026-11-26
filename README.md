@@ -60,7 +60,6 @@
   Database Management with MySQL<br>
   Responsive Web Design<br>
   Backend Development<br>
-  Clean Code & Project Structure
 </p>
 
 <br>
