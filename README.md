@@ -46,6 +46,32 @@
 ---
 
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhooo08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+</p>
+
+-----
+
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhooo08&theme=tokyonight&hide_border=true&border_radius=10" width="70%" />
+</p>
+
+----
+
+
+<h2>🌱 Currently Learning</h2>
+
+- Laravel & PHP Development
+- Database Management with MySQL
+- Responsive Web Design
+- Backend Development
+- Clean Code & Project Structure
+
 <!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Statistics
